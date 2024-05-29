@@ -1,7 +1,7 @@
 tagThickness = 3;
 textThickness = 2;
-fontStyle="Shrek:style=Regular"
-fontColor="Green"
+fontStyle="Shrek:style=Regular";
+fontColor="Green";
 $fn=60;
 
 difference(){
